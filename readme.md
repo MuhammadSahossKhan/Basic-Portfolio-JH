@@ -13,5 +13,9 @@
 - VS Code
 
 
-## [Live Preview] (https://github.com/MuhammadSahossKhan/Basic-Portfolio-JH.git)
-## [Live Code] (https://github.com/MuhammadSahossKhan/Basic-Portfolio-JH.git)
+
+## Source Code:
+## [ Github Repository](https://github.com/MuhammadSahossKhan/Basic-Portfolio-JH.git)
+
+## Preview: 
+## [Live Preview](https://basic-portfolio-jh.netlify.app)
